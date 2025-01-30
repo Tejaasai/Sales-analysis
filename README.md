@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d1db9b3-2af0-44e0-914b-97823f44eccf)# Retail Sales analysis
+# Retail Sales analysis
 
 The client owns one of the leading retail store chains in India and would like to receive a detailed analysis report and data-driven insights from the point of sales data to define marketing strategies 
 
@@ -10,6 +10,22 @@ Conducted detailed exploratory data analysis on transaction data to understand t
 
 ## Techniques used: 
 Data Modeling (Creation of ER Diagrams), Data Manipulation, Data Summarization, Exploratory Data Analysis, Creation of Reports, and Insights Generation.
+
+## Detailed Steps:
+
+•	Understand the business objective and available data with the help of a data dictionary.
+
+•	Created an ER Diagram that represents the structure of the database.
+
+•	Subsequently, a database was established in an MS SQL server with the necessary schema, and the data was successfully loaded into it.
+
+•	Performed the below analysis to understand the selling patterns, trends, seasonality of sales, performance of stores at different locations, and prioritizing customers.
+o	Performance of sales over gender.
+o	Sales in different store locations an
+o	Behavior of customers purchasing pattern over month and year
+
+•	Finally generated insights in terms of most performing stores, Location, gender etc.
+
 
 ## Findings:
 
