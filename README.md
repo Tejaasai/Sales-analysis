@@ -9,25 +9,6 @@ Conduct a comprehensive exploratory analysis to examine sales trends and underst
 ## Summary: 
 Conducted detailed exploratory data analysis on transaction data to understand the sales patterns among various products and additionally segemented customer based on thier age.
 
-## Techniques used: 
-Data Modeling (Creation of ER Diagrams), Data Manipulation, Data Summarization, Exploratory Data Analysis, Creation of Reports, and Insights Generation.
-
-## Detailed Steps:
-
-•	Understand the business objective and available data with the help of a data dictionary.
-
-•	Created an ER Diagram that represents the structure of the database.
-
-•	Subsequently, a database was established in an MS SQL server with the necessary schema, and the data was successfully loaded into it.
-
-•	Performed the below analysis to understand the selling patterns, trends, seasonality of sales, performance of stores at different locations, and prioritizing customers.
-o	Performance of sales over gender.
-o	Sales in different store locations an
-o	Behavior of customers purchasing pattern over month and year
-
-•	Finally generated insights in terms of most performing stores, Location, gender etc.
-
-
 ## Findings:
 
 •	Chennai, Mumbai, Banglore are the top locations of stores which are generarting maximum revenue
