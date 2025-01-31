@@ -1,4 +1,5 @@
 # Retail Sales analysis
+## Tools used : Excel, Powerbi, SQL
 
 The client owns one of the leading retail store chains in India and would like to receive a detailed analysis report and data-driven insights from the point of sales data to define marketing strategies 
 
